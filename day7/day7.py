@@ -36,3 +36,5 @@ if __name__ == '__main__':
 #print(x)
 
 #os.mkdir("/any/path")
+
+#os.isexist(/any/path/you/want/to/check)	it will tell true or false`
