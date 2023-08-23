@@ -30,3 +30,9 @@ if __name__ == '__main__':
 
 #from assign import add_one_to_number
 #from . import temp 	#this can be only done if we are importing something from current dir
+
+#import os
+#x = os.path.join(os.getcwd(), "aaa", "bbb", "ddd")
+#print(x)
+
+#os.mkdir("/any/path")
